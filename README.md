@@ -29,7 +29,7 @@ I loved word of testing and technology, constantly training myself in tools and 
 
 ## [📊 Generate Reports]()
 
--Soon
+- Soon
 ---
 
 ## 📬 Contact us
