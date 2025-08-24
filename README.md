@@ -10,13 +10,13 @@ I loved word of testing and technology, constantly training myself in tools and 
 
 ---
 
-## [📄 Introduction to testing]()
+## [📄 Introduction to testing](https://github.com/JuanCG437/qa-portfolio/new/main/testing-documentation)
 
 - `Introduction to Testing`
 - `Test Design Techniques`
 - `Test Strategies & Approach`
 
-## [🧪 Automation]()
+## [🧪 Automation](https://github.com/JuanCG437/qa-portfolio/blob/main/testing-documentation/02-automation-testing.md)
 
 - `Automation Testing`
   
