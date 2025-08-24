@@ -56,4 +56,4 @@ To succeed, automation should follow some principles:
 - Maintenance overhead (test scripts need updates when the applications changes).
 - Risk of falase confidence (100% automated test != 100% bug-free software).
 
-- 
+
