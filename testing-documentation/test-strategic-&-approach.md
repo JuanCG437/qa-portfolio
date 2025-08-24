@@ -7,7 +7,7 @@ A **test strategy** is a formal document that defines the testing approach for a
 The strategy encompasses various aspects, incluiding the scope of testing, testing objectives, methodologies, and resource allocation.
 
 ## key Components of a Test Strategy
-1. **Scope and Overview: This section outlines what will be tested and why providing a clear undestanding of the application uder test (AUT).
+1. **Scope and Overview**: This section outlines what will be tested and why providing a clear undestanding of the application uder test (AUT).
 2. **Test Approach**: Defines the specific methods and techniques that will be used during testing, incluiding manual and automated testing strategies.
 3. **Test Levels**: Lists the different levels of testing that will be performed, such as unit testing, integration testing, system testing, and acceptance testing.
 4. **Roles and Responsabilities**: Clarifies the roles of team members involved in the testing process, ensuring accountability and clear communication.
