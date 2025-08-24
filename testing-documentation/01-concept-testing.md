@@ -54,7 +54,7 @@ The pyramid is typically dividied into three layers:
 ## 📊 Why the Pyramid Shape?
 - **Wide base** = lots of fast, reliable unit tests.
 - **Narrow top** = fewer slow, brittle E2E/UI tests.
-- The idea is to get **get quick feedback** from unit and integration tests, and only rely on expensive E2E tests for critical workflows.
+- The idea is to **get quick feedback** from unit and integration tests, and only rely on expensive E2E tests for critical workflows.
 
 ## ✅ Benefits
 - Faster feedback cycles.
