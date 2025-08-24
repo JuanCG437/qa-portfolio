@@ -15,7 +15,7 @@ This brief section will provide an introduction to software testing, where we ad
 > Main application techniques in test design
 
 ## 🧩 Test Strategic & Approach
->[Strategic](https://github.com/JuanCG437/qa-portfolio/blob/main/testing-documentation/test-design-techniques.md)
+>[Strategic](https://github.com/JuanCG437/qa-portfolio/blob/main/testing-documentation/test-strategic-%26-approach.md)
 >
 >Brief test strategy and approach
 
