@@ -1,4 +1,4 @@
-# 🏛️ Categories of Test Deisgn Techniques
+# 🏛️ Categories of Test Design Techniques
 
 Test design techniques are often grouped into three families:
 
