@@ -5,17 +5,17 @@ This brief section will provide an introduction to software testing, where we ad
 ---
 
 ## 📄 Introduction to concepts Teting
->(Testing)[https://github.com/JuanCG437/qa-portfolio/blob/main/testing-documentation/Terminology.pdf]
+>[Testing](https://github.com/JuanCG437/qa-portfolio/blob/main/testing-documentation/Terminology.pdf)
 >
 > Brief introduction to concepts testing
 
 ## 🔎 Test Design Techniques
->(Techniques)[https://github.com/JuanCG437/qa-portfolio/blob/main/testing-documentation/test-design-techniques.md]
+>[Techniques](https://github.com/JuanCG437/qa-portfolio/blob/main/testing-documentation/test-design-techniques.md)
 >
 > Main application techniques in test design
 
 ## 🧩 Test Strategic & Approach
->(Strategic)[https://github.com/JuanCG437/qa-portfolio/blob/main/testing-documentation/test-design-techniques.md]
+>[Strategic](https://github.com/JuanCG437/qa-portfolio/blob/main/testing-documentation/test-design-techniques.md)
 >
 >Brief test strategy and approach
 
@@ -45,5 +45,19 @@ The pyramid is typically dividied into three layers:
 - Provide confidence that the entire workflow functions, but are slow and fragile if overused.
 - Example: Testing that a user can log in, add an item to the cart, and complete a purchase.
 
+<p align="center">
 <img width="500" height="280" alt="pyramid testing simplified" src="https://global-uploads.webflow.com/619e15d781b21202de206fb5/6316d9e765cd53d9937e2b6a_The-Testing-Pyramid-Simplified-for-One-and-All.webp" />
+<br/>
+  <sub>© Image source: Webflow Global Uploads</sub>
+</p>
+
+## 📊 Why the Pyramid Shape?
+- **Wide base** = lots of fast, reliable unit tests.
+- **Narrow top** = fewer slow, brittle E2E/UI tests.
+- The idea is to get **get quick feedback** from unit and integration tests, and only rely on expensive E2E tests for critical workflows.
+
+## ✅ Benefits
+- Faster feedback cycles.
+- Lower maintenance costs (fewer flaky tests).
+- Balanced test coverage (confidence without excessive overhead).
 
