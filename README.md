@@ -24,10 +24,12 @@ I loved word of testing and technology, constantly training myself in tools and 
 
 ## [🔁 CI/CD QA]()
 
+- Soon
 ---
 
 ## [📊 Generate Reports]()
 
+-Soon
 ---
 
 ## 📬 Contact us
