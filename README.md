@@ -10,7 +10,7 @@ I loved word of testing and technology, constantly training myself in tools and 
 
 ---
 
-## [📄 Introduction to testing](https://github.com/JuanCG437/qa-portfolio/new/main/testing-documentation)
+## [📄 Introduction to testing](https://github.com/JuanCG437/qa-portfolio/blob/main/testing-documentation/01-concept-testing.md)
 
 - `Introduction to Testing`
 - `Test Design Techniques`
