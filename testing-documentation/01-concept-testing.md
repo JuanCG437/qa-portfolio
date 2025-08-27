@@ -27,6 +27,7 @@ It was introduced by **Mike Cohn** in his book *Secceeding with Agile.*
 
 ### 📐 Structure of the Testing Pyramid:
 The pyramid is typically dividied into three layers:
+
 **1. Unit Test (Base of Pyramid)**
 - ✅ Largest number of test.
 - Test individual components, functions, or classes in isolation.
