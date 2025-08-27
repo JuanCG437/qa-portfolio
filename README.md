@@ -22,9 +22,10 @@ I loved word of testing and technology, constantly training myself in tools and 
   
 ---
 
-## [🔁 CI/CD QA]()
+## [🔁 CI/CD QA](https://github.com/JuanCG437/qa-portfolio/blob/main/testing-documentation/03-CI_CD-in-testing.md)
 
-- Soon
+- `CD/CD in the context of software testing`
+
 ---
 
 ## [📊 Generate Reports]()
