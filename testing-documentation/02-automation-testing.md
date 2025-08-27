@@ -56,4 +56,9 @@ To succeed, automation should follow some principles:
 - Maintenance overhead (test scripts need updates when the applications changes).
 - Risk of falase confidence (100% automated test != 100% bug-free software).
 
+---
+
+## 👨‍💻 Mi Automation Project
+In this project using Selenium Webdriver and Cucumber with Java for validate differents test cases designs in the Jira Zephyr tool
+<br>[automation project](https://github.com/JuanCG437/selenium-cucumber-java-automation)
 
