@@ -24,21 +24,21 @@ I loved word of testing and technology, constantly training myself in tools and 
 
 ## [🔁 CI/CD QA](https://github.com/JuanCG437/qa-portfolio/blob/main/testing-documentation/03-CI_CD-in-testing.md)
 
-- `CD/CD in the context of software testing`
+- `CD/CD in the Context of Software Testing`
 
 ---
 
-## [📊 Generate Reports]()
+## [📊 Generate Reports](https://github.com/JuanCG437/qa-portfolio/blob/main/testing-documentation/04-reports-testing.md)
 
-- Soon
+- `Importance of Reports in Testing`
+
 ---
 
 ## 📬 Contact us
 
- 📧 Email: `tatumenes240@gmail.com` | `juanmacg437@outlook.com`<br>
- 🔗 LinkedIn: [Juan Cortez](https://www.linkedin.com/in/juan-cortez-6bb839376/)
+ >📧 Email: `tatumenes240@gmail.com` | `juanmacg437@outlook.com`<br>
+ >🔗 LinkedIn: [Juan Cortez](https://www.linkedin.com/in/juan-cortez-6bb839376/)
 
----
 
 
 
