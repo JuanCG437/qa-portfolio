@@ -104,7 +104,7 @@ jobs:
 
 ---
 
->Summary
+>In conclusion
 >
 >CI/CD transforms testing into a continuous, automated, and integrated process. Integration testing is a critical stage that ensures modules, APIs, and services work correctly before code moves to staging and production.
 
