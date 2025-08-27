@@ -9,47 +9,57 @@ Continuous Integratuon (CI) and Continuous Delivery/Deployment (CD) are fundamen
 ---
 
 ## 🔎 Why CI/CD is Important for Testing
-1. **Early Detection of Defects**
-    - CI integrates code frequently, ensuring automated tests run on each change.
-    - Bugs are detected quickly, preventing costly fixes later.
-2. **Automation & Consistency**
-    - Automated pipelines execute unit, integration, and end-to-end tests consistently across environments.
-3. **Faster Feedback**
-    - Developers get immediate results from tests executions.
-    - Encourages rapid iteration and continuous improvement.
-4. **Scalability**
-    - CI/CD pipelines handle multiple builds, branches, and environments efficiently.
-    - Supports parallel test execution, saving time.
-5. **Value Delivery**
-    - CD ensures tested and validated software always ready for release.
-    - Builds customer trust by delivering updates and fixes quickly with fewer risks.
+
+**1. Early Detection of Defects**
+- CI integrates code frequently, ensuring automated tests run on each change.
+- Bugs are detected quickly, preventing costly fixes later.
+
+**2. Automation & Consistency**
+- Automated pipelines execute unit, integration, and end-to-end tests consistently across environments.
+
+**3. Faster Feedback**
+- Developers get immediate results from tests executions.
+- Encourages rapid iteration and continuous improvement.
+
+**4. Scalability**
+- CI/CD pipelines handle multiple builds, branches, and environments efficiently.
+- Supports parallel test execution, saving time.
+
+**5. Value Delivery**
+- CD ensures tested and validated software always ready for release.
+- Builds customer trust by delivering updates and fixes quickly with fewer risks.
 
 ---
 
 ## 🧪 Role Testing in CI/CD
 Testing in the backbone of CI/CD. Every pipeline stage has different types of tests:
-1. Unit tests (CI stage)
-    - Run after every commit/pull request.
-    - Validates small pieces of code.
-    - Provide fast feedback.
-2. Integration Test (CI/CD stage)
-    - Run after successful unit tests.
-    - Validate interaction between modules, services, and external systems.
-    - Ensure APIs, databases, and components with mocked together correctly.
-    - Often require a test environment with mocked or real dependences.
-3. System & End-to-End Tests (CD stage)
-    - Run before deploying to staging/production.
-    - Validate user workflows across the entire system.
-    - Example: "Login -> Add to product to cart -> Checkout."
-4. Non-functional Tests
-    - Performance, security, usability test often integrated into pipelines before release.
+
+**1. Unit tests (CI stage)**
+- Run after every commit/pull request.
+- Validates small pieces of code.
+- Provide fast feedback.
+
+**2. Integration Test (CI/CD stage)**
+- Run after successful unit tests.
+- Validate interaction between modules, services, and external systems.
+- Ensure APIs, databases, and components with mocked together correctly.
+- Often require a test environment with mocked or real dependences.
+
+**3. System & End-to-End Tests (CD stage)**
+- Run before deploying to staging/production.
+- Validate user workflows across the entire system.
+- Example: "Login -> Add to product to cart -> Checkout."
+
+**4. Non-functional Tests**
+- Performance, security, usability test often integrated into pipelines before release.
 
 ---
 
 ## 🔁 How to integration Testing Fits in CI/CD
 - Runs in a dedicated CI pipeline stage (after unit tests).
 - Uses tests doubles (mocks/stubs) for unavaible services, or runs with containers for real dependencies.
-- Example flow:
+  
+**Example flow:**
 1. Developer commit code.
 2. CI pipeline runs units tests.
 3. Integration test stage spins up Docker containers (database, services).
