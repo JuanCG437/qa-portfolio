@@ -5,7 +5,7 @@ This brief section will provide an introduction to software testing, where we ad
 ---
 
 ## 📄 Introduction to Concepts Testing
->[Testing](https://github.com/JuanCG437/qa-portfolio/blob/main/testing-documentation/Terminology.pdf)
+>[Testing](https://github.com/JuanCG437/qa-portfolio/blob/main/testing-documentation/terminology.pdf)
 >
 > Brief introduction to concepts testing
 
