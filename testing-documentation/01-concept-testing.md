@@ -4,7 +4,7 @@ This brief section will provide an introduction to software testing, where we ad
 
 ---
 
-## 📄 Introduction to concepts Teting
+## 📄 Introduction to Concepts Testing
 >[Testing](https://github.com/JuanCG437/qa-portfolio/blob/main/testing-documentation/Terminology.pdf)
 >
 > Brief introduction to concepts testing
@@ -18,6 +18,9 @@ This brief section will provide an introduction to software testing, where we ad
 >[Strategic](https://github.com/JuanCG437/qa-portfolio/blob/main/testing-documentation/test-strategic-%26-approach.md)
 >
 >Brief test strategy and approach
+
+## 📐 Test Plannification and Management
+>[]()
 
 ---
 
