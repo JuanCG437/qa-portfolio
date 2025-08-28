@@ -53,3 +53,11 @@ The INVEST criteria help Agile teams create high-quality user stories that facil
 **I want or I** need [Objective] description of need.
 
 **For** [Benefit] benefit that will receive user with implemented need.
+
+---
+
+## Aceptance Criteria
+
+1. Problem-solving Team can implement.
+2. Testeable
+3. Validation performed by product owner, where they acceptance/rejects the user story.
