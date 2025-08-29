@@ -26,6 +26,11 @@ This brief section will provide an introduction to software testing, where we ad
 
 ---
 
+## 🐞 Bug Life Cycle
+>[life Cycle Bug]()
+>
+> Brief summary bug life cycle and template for reporting
+
 ## Test Automation Pyramid
 The testing pyramid is a concept in software testing that illustrates how different types of automated test should be balanced in a project to ensure efficiency, maintainability, and fast feedback.
 It was introduced by **Mike Cohn** in his book *Secceeding with Agile.*
