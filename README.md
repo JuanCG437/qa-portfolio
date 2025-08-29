@@ -15,6 +15,8 @@ I loved word of testing and technology, constantly training myself in tools and 
 - `Introduction to Testing`
 - `Test Design Techniques`
 - `Test Strategies & Approach`
+- `Test Planning and Management`
+- `Bug Life Cycle and Reporting`
 
 ## [🧪 Automation](https://github.com/JuanCG437/qa-portfolio/blob/main/testing-documentation/02-automation-testing.md)
 
