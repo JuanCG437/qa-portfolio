@@ -17,10 +17,12 @@ This brief section will provide an introduction to software testing, where we ad
 ## 🧩 Test Strategic & Approach
 >[Strategic](https://github.com/JuanCG437/qa-portfolio/blob/main/testing-documentation/test-strategic-%26-approach.md)
 >
->Brief test strategy and approach
+> Brief test strategy and approach
 
 ## 📐 Test Plannification and Management
->[]()
+>[Test Planning](https://github.com/JuanCG437/qa-portfolio/blob/main/testing-documentation/test-planning-and-user-stories.md)
+>
+> Design Test Planning and Test Cases
 
 ---
 
