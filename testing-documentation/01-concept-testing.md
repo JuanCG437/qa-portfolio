@@ -27,7 +27,7 @@ This brief section will provide an introduction to software testing, where we ad
 ---
 
 ## 🐞 Bug Life Cycle
->[life Cycle Bug]()
+>[life Cycle Bug](https://github.com/JuanCG437/qa-portfolio/blob/main/testing-documentation/bug-life-cycle.md)
 >
 > Brief summary bug life cycle and template for reporting
 
